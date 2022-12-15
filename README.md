@@ -20,9 +20,9 @@ Don't execute everything blindly.
 #### 4. Language & Technologies
 
 - [x] React Native
+- [x] Expo
 - [x] News API
 - [x] MVC Architecture
-- [x] Expo
 
 
 #### 5. What should I need to do with this project?
@@ -36,8 +36,8 @@ In Search Screen user can search specific topic.
 Following functions are included in this project.
     - [x] In Home Screen display all the articles using “Scrollable FlatList”.
     - [x] In Search Screen user can search specific topic.
-    - [x] News is sorting dates in “Ascending” order.
-    - [x] News is categorized in the “Technology” category.
+    - [x] News is sorting dates in “Descending” order.
+    - [x] News is categorized in the “Science” category.
     - [x] Click on the Author Name, Source or Date can redirect to the source website and user can read full article.
 
 
